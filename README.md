@@ -13,7 +13,7 @@ Actualmente, hay dos plugins oficiales disponibles:
 - Versión LTS de Node
 - Navegador Web
 
-Consulta esta página web para obtener mejores instrucciones sobre React y Vite: [vitejs.dev](https://vitejs.dev/guide/)
+Consulta esta página web para obtener mejores instrucciones sobre React y Vite: [es.vitejs.dev](https://es.vitejs.dev/guide/)
 
 ## Instalar React + Vite
 - Crear un directorio para el proyecto: **mkdir nombre_del_proyecto**
